@@ -1,0 +1,14 @@
+.UserOutput {
+    
+}
+
+.UserOutput__name {
+    font-weight: bold;
+    color: gray;
+}
+
+.UserOutput__desc {
+    font-size: 12px;
+    margin-left: 16px;
+    color: #333;
+}
